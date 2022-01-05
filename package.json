@@ -23,7 +23,7 @@
     "url": "https://github.com/vertcoin-project/vertcore-message.git"
   },
   "dependencies": {
-    "vertcore-lib": "git://github.com/vertcoin-project/vertcore-lib.git"
+    "vertcore-lib": "git://github.com/cruelnovo/vertcore-lib.git"
   },
   "devDependencies": {
     "vertcore-build": "git://github.com/vertcoin-project/vertcore-build.git",
